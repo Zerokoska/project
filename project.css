@@ -1,0 +1,31 @@
+html{
+    
+}
+body{
+    background-image: url(./assignment-2/graphics/bg.jpg);
+    color: white;
+    
+
+}
+h1{
+    font-family: "FromtheWoods-Regular";
+    
+
+}
+p{
+    font-family: sans-serif;
+
+}
+a{
+
+}
+footer{
+    background-color: green;
+    bottom: 0;
+}
+.circle{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background-color: green;
+}
